@@ -1,0 +1,75 @@
+/* ########## Main styles */
+body {
+
+}
+
+h1, h2, h3 {
+	font-weight:bold;
+}
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+
+}
+
+a {
+
+}
+
+nav {
+	margin: 0 auto;
+	width: 500px;
+}
+
+ul {
+	list-style-type: none;
+	display: flex;
+  	flex-direction: row;
+  	flex-wrap: wrap;
+}
+ul li { 
+	flex: 1;
+  	padding: 0 12px;
+  }
+header {
+	text-align: center;
+}
+footer {
+	background: gray;
+	text-align: left;
+}
+.primary {text-align: center;}
+.secondary {    
+	background-image: url("../images/the-flatiron-building.png");
+    text-align: center;
+    color: white;
+}
+.secondary h2 {text-align: center;}
+
+
+
+
+
